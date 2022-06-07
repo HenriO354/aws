@@ -1,5 +1,5 @@
 # aws
-## Types of cloud computing
+## <center>Types of cloud computing</center>
 The three main types of cloud computing include Infrastructure as a Service, Platform as a Service, and Software as a Service. Each type of cloud computing provides different levels of control, flexibility, and management so that you can select the right set of services for your needs.<br> 
 
 - Infrastructure as a Service (<b>IaaS</b>)
